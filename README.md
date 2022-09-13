@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @juanjo-suarez
-- 👀 I’m interested in everything
-- 🌱 I’m always learning something
-- 💞️ I’m looking to collaborate on good projects
-- 📫 juanjo@objetivocreativo.com
+👋 Hello! I'm Juanjo Suárez
+===========================
 
-<!---
-juanjo-suarez/juanjo-suarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sr. Full-Stack Web Developer
+----------------------------
+
+### My career in three lines
+
+- **CEO of Objetivo Creativo (Web Development Company)** Since 2009
+- **Technology Teacher (Engineering Fields)** From 2003 to 2009
+- **Technology Lover and Developer** Since 1998
+
+### Of course, it’s a longer story... 😅
+#### Let's talk! 😊
+
+juanjo@objetivocreativo.com
